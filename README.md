@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Geekinney's github stats](https://github-readme-stats.vercel.app/api?username=Kinneyzhang&theme=dracula&show_icons=true)
+![Geekinney's Github Stats](https://github-readme-stats.vercel.app/api?username=Kinneyzhang&theme=vue&show_icons=true)
