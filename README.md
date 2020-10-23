@@ -4,4 +4,4 @@
 
 **Top languages**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinneyzhang&layout=compact&langs_count=3)](https://github.com/Kinneyzhang/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinneyzhang&layout=compact&langs_count=4)](https://github.com/Kinneyzhang/)
